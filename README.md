@@ -1,6 +1,6 @@
 # IFTendo-Battleship
 
-The game, Battleship, written in C in arduino IDE. Using a Host
+The game, Battleship, written in C++ in arduino IDE. Using a Host
 
 ## Materials used 
 
